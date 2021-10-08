@@ -49,3 +49,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 -[@ShreyasBhike](https://github.com/ShreyasBhike)
 
 -[ @Arpit Ghura](https://github.com/arpitghura)
+
+-[ @Satyam Thakur](https://github.com/mrthakursatyam)
