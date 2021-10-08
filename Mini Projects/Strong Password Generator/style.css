@@ -1,0 +1,24 @@
+h1 {
+    font-family: 'Courgette', cursive;
+    text-align: center;
+    font-weight: bold;
+}
+
+h5 {
+    color: white;
+}
+
+.box {
+    color: white;
+}
+
+#footer {
+    font-family: 'Patrick Hand', cursive;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin: 0%;
+}
