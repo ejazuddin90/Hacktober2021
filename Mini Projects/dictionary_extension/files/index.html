@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bs4/css/bootstrap.min.css">
+
+    <script src="bs4/js/jquery-3.5.1.min.js"></script>
+    <script src="bs4/js/bootstrap.min.js"></script>
+
+    <style>
+        body {
+            width: 570px;
+            background-color: black;
+        }
+
+        .jumbotron {
+            background: linear-gradient(to right, #338aff, #268773);
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="jumbotron text-center mt-4">
+            <h1 class="display-4" style="color: orange;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Find <span><img src="21324.png" alt="Not Available" style="margin-top: -22px;width: 107px;"></span> My
+                Word</h1>
+            <hr class="my-4" style="background-color: white;">
+
+            <div class="row">
+                <div class="col-9">
+                    <input type="text" style="font-size: 1.2rem;" class="form-control" id="inputsearch" placeholder="Write Your Word..">
+                </div>
+
+                <div class="col-3">
+                    <button class="btn btn-success btn-lg" id="btnSub">Search</button>
+                </div>
+            </div>
+
+            <div>
+                <div class="row mx-1" id="display">
+                    
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
