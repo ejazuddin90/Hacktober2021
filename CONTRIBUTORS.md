@@ -51,3 +51,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 -[ @Arpit Ghura](https://github.com/arpitghura)
 
 -[ @Satyam Thakur](https://github.com/mrthakursatyam)
+
+-[ @Lakshay Thakur](https://github.com/thakurlakshay2)
